@@ -7,9 +7,9 @@ Full Stack Developer
 A passionate and detail-oriented who is committed to crafting and managing Full Stack Web Applications. A continuous learner of cutting-edge technological tools, a biking enthusiast, lover of art and design, finds solace in nature and thrives on meaningful, deep conversations.
 
 * 🌍  I'm based in Philadelphia, PA
-* 🖥️  See my portfolio at [MyPortfolio](http://https://edil-mg.netlify.app/)
+* 🖥️  See my portfolio at [MyPortfolio](https://edil-mg.netlify.app/)
 * ✉️  You can contact me at [edilawitmengistu68@gmail.com](mailto:edilawitmengistu68@gmail.com)
-* 🚀  I'm currently working on [Auto repair website](http://https://abe-auto-repair.netlify.app/)
+* 🚀  I'm currently working on [Auto repair website](https://abe-auto-repair.netlify.app)
 
 ### Skills
 
